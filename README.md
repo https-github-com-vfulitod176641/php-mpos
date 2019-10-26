@@ -173,3 +173,6 @@ limitations under the License.
 
   [1]: https://github.com/TheSerapher/php-mpos/issues "Issue"
   [2]: http://www.smarty.net/docs/en/ "Smarty"
+
+to fix the python SSL issue wget Downloading https://pypi.python.org/packages/source/d/distribute/distribute-0.6.28.tar.gz
+and then run the install script again
